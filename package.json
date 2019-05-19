@@ -1,0 +1,16 @@
+{
+  "name": "gce-terra-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gce-terra.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "bin": {
+    "oli": "./prompt-test.js"
+  }
+}
